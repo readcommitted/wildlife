@@ -1,0 +1,88 @@
+[server]
+fileWatcherType = "none"
+
+[[pages]]
+path = "app/about.py"
+name = "Home"
+icon = "🐾"
+
+[[pages]]
+path = "app/ingest_ui.py"
+name = "Ingestion Pipeline"
+icon = "🚀"
+
+[[pages]]
+path = "core/validate.py"
+name = "Validation"
+icon = "✏️"
+
+[[pages]]
+path = "app/species_detection_ui.py"
+name = "Species Detection"
+icon = "🧬"
+
+[[pages]]
+name = "Analysis"
+icon = ""
+is_section = true
+
+[[pages]]
+path = "app/analysis_ui.py"
+name = "Analysis Explorer"
+icon = "📊"
+
+[[pages]]
+path = "app/semantic_search_ui.py"
+name = "Exploration / Search"
+icon = "🔍"
+
+[[pages]]
+name = "Tools"
+icon = ""
+is_section = true
+
+[[pages]]
+path = "tools/adhoc_scraper.py"
+name = "One-Off Species Scraper"
+icon = "🛠️"
+
+[[pages]]
+path = "tools/reset.py"
+name = "Database & File Clean-up"
+icon = "🧹"
+
+[[pages]]
+path = "tools/geocode_image_locations.py"
+name = "Geocode & Update Image Locations"
+icon = "🗺️"
+
+[[pages]]
+path = "app/regenerate_embeddings_ui.py"
+name = "Regenerate Image Embeddings"
+icon = "🔁"
+
+[[pages]]
+path = "tools/regenerate_text_embeddings.py"
+name = "Regenerate Text Embeddings"
+icon = "🔁"
+
+[[pages]]
+name = "Appendix"
+icon = ""
+is_section = true
+
+[[pages]]
+path = "appendix/project.py"
+name = "Project Overview"
+icon = "📖"
+
+[[pages]]
+path = "appendix/workflow.py"
+name = "Complete Wildlife Image Processing Workflow"
+icon = "📖"
+
+[[pages]]
+path = "appendix/references.py"
+name = "References"
+icon = "📖"
+

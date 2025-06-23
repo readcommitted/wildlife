@@ -1,0 +1,14 @@
+streamlit
+rawpy
+Pillow
+exifread
+python-dotenv
+SQLAlchemy
+psycopg2-binary
+pgvector
+speciesnet
+torch
+st-pages
+bs4
+ultralytics
+clip
