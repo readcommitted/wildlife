@@ -48,3 +48,15 @@ This system is an evolving foundation designed to test core functionality and ex
 ## Notes
 
 This project is under active development, with core workflows prioritized for testing and iteration. Contributions and feedback are welcome as the system evolves toward a more complete solution for wildlife-focused image analysis.
+
+## References and Acknowledgments
+
+This project builds upon key models and datasets:
+
+- [SpeciesNet](https://github.com/visionforwildlife/speciesnet) for supervised species classification  
+- [OpenAI CLIP](https://openai.com/research/clip) for semantic image and text embeddings  
+- [Ultralytics YOLOv8](https://github.com/ultralytics/ultralytics) for object detection and cropping  
+- [World Wildlife Fund WildFinder Database](https://www.worldwildlife.org/publications/wildfinder-database) for ecoregion and species range filtering  
+- [ExifTool](https://exiftool.org) for metadata extraction  
+
+For additional technical details, see the [final report](docs/MScardino_Data_Science_Practicum_Final.pdf).
