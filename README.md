@@ -59,4 +59,4 @@ This project builds upon key models and datasets:
 - [World Wildlife Fund WildFinder Database](https://www.worldwildlife.org/publications/wildfinder-database) for ecoregion and species range filtering  
 - [ExifTool](https://exiftool.org) for metadata extraction  
 
-For additional technical details, see the [final report](docs/MScardino_Data_Science_Practicum_Final.pdf).
+
